@@ -1,4 +1,4 @@
-## Title: Matching Dates in YYYY-MM-DD Format
+## Matching Dates in YYYY-MM-DD Format
 
 Introductory paragraph: Regular expressions (regex) are a powerful tool for matching patterns in text data. In this article, we will explore how to use regex to match dates in the YYYY-MM-DD format. We will discuss the different regex components such as anchors, quantifiers, character classes, grouping and capturing, and more.
 
