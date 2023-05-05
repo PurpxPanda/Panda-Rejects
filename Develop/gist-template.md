@@ -36,7 +36,7 @@ The \d character class matches any digit. This character class is used to match 
 
 ### Boundaries
 
-The ^ and $ anchors serve as boundaries in this regex, ensuring that the entire string matches the YYYY-MM-DD format.
+The ^ and $ anchors serve as boundaries in this regex. Ensuring that the entire string matches the YYYY-MM-DD format.
 
 ## Author
 
